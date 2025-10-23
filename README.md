@@ -35,7 +35,7 @@ This project is licensed under the terms of the MIT license.
 This short video showcases the **EchoPrime similarity search user interface**, a companion tool that enables interactive retrieval of echocardiogram studies based on cosine similarity.  
 It demonstrates how users can query specific phrases (e.g., *aortic root dilation*, *mitral calcification*) or upload new studies, and view the most similar cases across multiple views in real time.
 
-[![Watch on YouTube](https://img.youtube.com/vi/hfjeqBlkmQA/hqdefault.jpg)](https://youtu.be/hfjeqBlkmQA)
+[![Watch on YouTube](https://img.youtube.com/vi/mot9R7-HQPk/hqdefault.jpg)](https://youtu.be/mot9R7-HQPk)
 
 
 ## FAQ:
